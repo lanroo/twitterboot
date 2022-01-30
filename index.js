@@ -15,7 +15,7 @@ var Twit = require("twit");
 
 function acaoDoNossoBot() {
 
-   var postTweet = "segundo teste de boot para twitter, agora vai essa porra uhul pega caraio";
+   var postTweet = "escreva aqui a sua mensagem boot para o twitter";
    nossoBot.post(
       
       'statuses/update', 
